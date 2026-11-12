@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="40" viewBox="0 0 162 40" role="img" aria-label="Download for macOS">
+  <rect x="0.5" y="0.5" width="161" height="39" rx="7.5" fill="#000000" stroke="#A6A6A6" stroke-width="1"/>
+  <g transform="translate(3, 0)">
+    <path d="M24.77,20.30a4.95,4.95,0,0,1,2.36-4.15,5.07,5.07,0,0,0-3.99-2.16c-1.68-.18-3.31,1.00-4.16,1.00-.87,0-2.19-.99-3.61-.96a5.32,5.32,0,0,0-4.47,2.73c-1.93,3.35-.49,8.27,1.36,10.98.93,1.33,2.01,2.81,3.43,2.75,1.39-.06,1.91-.88,3.58-.88,1.66,0,2.14.88,3.59.85,1.49-.02,2.43-1.33,3.32-2.67a10.96,10.96,0,0,0,1.52-3.09A4.78,4.78,0,0,1,24.77,20.30Z" fill="#FFFFFF"/>
+    <path d="M22.04,12.21a4.87,4.87,0,0,0,1.11-3.49,4.96,4.96,0,0,0-3.21,1.66,4.64,4.64,0,0,0-1.14,3.36A4.10,4.10,0,0,0,22.04,12.21Z" fill="#FFFFFF"/>
+  </g>
+  <text x="38" y="14.5" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang SC', 'Helvetica Neue', sans-serif" font-size="8.8" font-weight="400" letter-spacing="0.02em">Download for</text>
+  <text x="38" y="29" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', sans-serif" font-size="17.5" font-weight="600" letter-spacing="-0.01em">macOS</text>
+</svg>

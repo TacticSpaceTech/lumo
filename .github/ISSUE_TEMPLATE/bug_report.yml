@@ -1,0 +1,35 @@
+name: Bug Report
+description: Report an issue on Lumo for macOS or iOS
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - macOS (Apple Silicon)
+        - macOS (Intel)
+        - iOS (iPhone)
+        - Windows (Preview)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Lumo Version & OS Version
+      placeholder: "e.g. Lumo 1.5.0, macOS 15.1"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: A clear description of what went wrong and steps to reproduce it.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen instead?

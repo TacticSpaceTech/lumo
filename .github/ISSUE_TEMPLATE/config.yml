@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Official Documentation & Guides
+    url: https://getlumo.io/docs
+    about: Learn how Local Mac, Remote Mac, Cloud Agent, Skills, and Artifact Studio work.
+  - name: Download Lumo for macOS & iOS
+    url: https://getlumo.io/download
+    about: Get the latest signed macOS installer (.dmg) or open Lumo on the Apple App Store.
+  - name: Account & Billing Support
+    url: https://getlumo.io/support
+    about: Contact Tactic Space Tech directly for private account, subscription, or billing help.

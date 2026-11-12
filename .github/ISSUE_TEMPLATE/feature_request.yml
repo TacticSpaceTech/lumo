@@ -1,0 +1,29 @@
+name: Feature / Workflow Request
+description: Suggest a new feature, creator workflow, or improvement for Lumo
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Creator Workflows (Slides / Content / Calendar / Cover Studio)
+        - Cloud Sandbox & Mobile Continuity
+        - Desktop UI / Appearance
+        - Voice & Read Aloud
+        - Built-in Skills & Integrations
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What workflow or goal would this help you accomplish?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed experience
+      description: How would you ideally like this to work in Lumo?
